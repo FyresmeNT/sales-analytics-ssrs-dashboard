@@ -15,7 +15,7 @@
 - **Query Language:** T-SQL
 - **Reporting:** SQL Server Reporting Services (SSRS)
 - **Development:** SQL Server Data Tools (SSDT)
-- **Sample Data:** AdventureWorks2014
+- **Sample Data:** AdventureWorks2017
 
 
 ### **Сложная SQL-логика**
@@ -41,7 +41,7 @@
 
 ## Быстрый старт
 
-1. Восстановите базу данных AdventureWorks2014 на SQL Server
+1. Восстановите базу данных AdventureWorks2017 на SQL Server
 
 2. Откройте файл SalesOrders.rdl в SQL Server Data Tools
 
